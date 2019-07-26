@@ -4,5 +4,4 @@ Git is free software distributed under the GPL.
 git is beautiful.
 git tracts changes of files.
 
-git diff command have different options.
-Creating a new branch is quick & simple .
+Creating a new branch is quick and simple.
