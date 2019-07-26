@@ -5,4 +5,4 @@ git is beautiful.
 git tracts changes of files.
 
 git diff command have different options.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
